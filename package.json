@@ -1,0 +1,15 @@
+{
+  "name": "bespoke-global-escapes",
+  "version": "1.0.0",
+  "description": "Travel booking website with admin dashboard for Bespoke Global Escapes",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=22.13"
+  },
+  "license": "UNLICENSED"
+}
